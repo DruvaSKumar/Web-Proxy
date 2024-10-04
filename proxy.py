@@ -6,7 +6,7 @@ from datetime import datetime
 
 
 cache = {}
-cache_expiry_time = 60
+cache_expiry_time = 70
 
 def main():
     global listen_port, buffer_size, max_conn
